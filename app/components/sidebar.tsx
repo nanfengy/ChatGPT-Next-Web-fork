@@ -231,8 +231,8 @@ export function SideBar(props: { className?: string }) {
       {...props}
     >
       <SideBarHeader
-        title="NextChat"
-        subTitle="Build your own AI assistant."
+        title="物理AI实验室"
+        subTitle="AI assistant."
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >

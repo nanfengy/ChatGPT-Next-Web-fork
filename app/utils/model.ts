@@ -214,7 +214,7 @@ export function isGPT4Model(modelName: string): boolean {
     (modelName.startsWith("gpt-4") ||
       modelName.startsWith("chatgpt-4o") ||
       modelName.startsWith("o1")) &&
-    !modelName.startsWith("gpt-4o-mini")
+    !modelName.startsWith("deepseek-chat")
   );
 }
 

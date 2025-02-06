@@ -251,7 +251,9 @@ export function SideBar(props: { className?: string }) {
     >
       <SideBarHeader
         title="物理AI实验室"
-        subTitle="AI assistant."
+        subTitle="AI assistant.
+        本站已更新国产 DeepSeek  大模型，
+        聊天时选择deepseek-chat（DeepSeek）即可"
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >

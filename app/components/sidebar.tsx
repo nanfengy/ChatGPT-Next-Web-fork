@@ -252,8 +252,8 @@ export function SideBar(props: { className?: string }) {
       <SideBarHeader
         title="物理AI实验室"
         subTitle="
-        本站已更新国产 DeepSeek  大模型，
-        聊天时选择deepseek-chat（007）即可"
+        本站已更新国产 DeepSeek  大模型。（先择后缀为007系列）
+        1、非推理模型deepseek-chat（007）已更新至最新版本v3-0324，代码能力与claude3.5齐平"
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >

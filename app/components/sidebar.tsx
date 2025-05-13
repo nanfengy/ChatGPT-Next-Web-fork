@@ -255,7 +255,7 @@ export function SideBar(props: { className?: string }) {
         2025-05-13
         本站已更新 DeepSeek、Gemini大模型。（选择后缀为007系列）
         1、非推理模型deepseek-chat（007）已更新至最新版本v3-0324，代码能力与claude3.5齐平
-        2、基础默认模型为  gemini-2.5-pro-preview-05-06   ，现役榜单第一"
+        2、基础默认模型为  gemini-2.5-pro-exp-03-25   ，现役榜单第一"
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >
